@@ -133,6 +133,28 @@ ul, ol, li {
   font-size: 26px;
 }
 
+.feature__details {
+  background-color: #E7E6E5;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.feature__detail {
+  background-color: white;
+  width: 400px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}
+
+.feature__detail p {
+  font-size: 20px;
+}
+
 .pricing {
   padding: 0 5%;
   background: #E7E6E5;
